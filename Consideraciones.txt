@@ -1,0 +1,12 @@
+////UDE - LicEnInformatica, Curso 2017 - Nocturno - Programación 2 - Primer Obligatorio - Docente: Tavidian, Sirely
+////Integrantes: Pías, Richard - 1.924.591-2 ; Segovia, Joaquín - 4.739.544-4
+
+//Documento de consideraciones
+
+1)Código numérico identificador debe ser natural mayor a 0, de lo contrario se le asignara automáticamente un 0 como id.
+
+2)Fecha de comienzo de producción no puede ser menor a 1900.
+
+3)Fecha de comienzo de producción no puede ser mayor a la fecha actual del sistema, si igual o menor.
+
+4)Cuando de dispone a buscar por una cantidad de premios, este numero debe ser mayor o igual a 0.

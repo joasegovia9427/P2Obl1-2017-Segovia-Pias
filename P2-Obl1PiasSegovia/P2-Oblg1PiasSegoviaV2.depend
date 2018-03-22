@@ -1,0 +1,451 @@
+# depslib dependency file v1.0
+1506795605 source:c:\users\joakohp10\onedrive\obligatorios\p2-oblg1piassegoviav2\main.cpp
+	"fabrica.h"
+	"menus.h"
+
+1507063894 
+
+1506727962 source:c:\users\joakohp10\onedrive\obligatorios\p2-oblg1piassegoviav2\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1507063894 "
+
+1506727893 c:\users\joakohp10\onedrive\obligatorios\p2-oblg1piassegoviav2\boolean.h
+	<stdio.h>
+	<stdlib.h>
+
+1506728112 source:c:\users\joakohp10\onedrive\obligatorios\p2-oblg1piassegoviav2\string.cpp
+	"string.h"
+
+1506728061 c:\users\joakohp10\onedrive\obligatorios\p2-oblg1piassegoviav2\string.h
+	"boolean.h"
+
+1506728172 source:c:\users\joakohp10\onedrive\obligatorios\p2-oblg1piassegoviav2\tipo.cpp
+	"tipo.h"
+
+1506728135 c:\users\joakohp10\onedrive\obligatorios\p2-oblg1piassegoviav2\tipo.h
+	"boolean.h"
+
+1506728253 source:c:\users\joakohp10\onedrive\obligatorios\p2-oblg1piassegoviav2\datos_premium.cpp
+
+1506728316 source:c:\users\joakohp10\onedrive\obligatorios\p2-oblg1piassegoviav2\datos_especial.cpp
+
+1506728415 source:c:\users\joakohp10\onedrive\obligatorios\p2-oblg1piassegoviav2\fecha.cpp
+	"fecha.h"
+
+1506728378 c:\users\joakohp10\onedrive\obligatorios\p2-oblg1piassegoviav2\fecha.h
+	"boolean.h"
+
+1506728484 source:c:\users\joakohp10\onedrive\obligatorios\p2-oblg1piassegoviav2\variedad.cpp
+
+1506728564 source:c:\users\joakohp10\onedrive\obligatorios\p2-oblg1piassegoviav2\fabrica.cpp
+
+1506731627 source:c:\users\joakohp10\onedrive\obligatorios\p2-oblg1piassegoviav2\menus.cpp
+	"menus.h"
+
+1506728534 c:\users\joakohp10\onedrive\obligatorios\p2-oblg1piassegoviav2\fabrica.h
+	"variedad.h"
+
+1507063894 h"
+
+1506728459 c:\users\joakohp10\onedrive\obligatorios\p2-oblg1piassegoviav2\variedad.h
+	"datos_especial.h"
+	"datos_premium.h"
+	"fecha.h"
+	"tipo.h"
+	"string.h"
+
+1506728293 c:\users\joakohp10\onedrive\obligatorios\p2-oblg1piassegoviav2\datos_especial.h
+	"string.h"
+
+1506728216 c:\users\joakohp10\onedrive\obligatorios\p2-oblg1piassegoviav2\datos_premium.h
+	"boolean.h"
+
+1506730947 c:\users\joakohp10\onedrive\obligatorios\p2-oblg1piassegoviav2\menus.cpp
+
+1506731008 c:\users\joakohp10\onedrive\obligatorios\p2-oblg1piassegoviav2\menus.h
+	"boolean.h"
+
+1506800852 source:c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegoviav2\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1506800852 c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegoviav2\boolean.h
+	<stdio.h>
+	<stdlib.h>
+
+1506800852 source:c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegoviav2\datos_especial.cpp
+
+1506800852 source:c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegoviav2\datos_premium.cpp
+
+1506800852 source:c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegoviav2\fabrica.cpp
+
+1506800852 source:c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegoviav2\fecha.cpp
+	"fecha.h"
+
+1506800852 c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegoviav2\fecha.h
+	"boolean.h"
+
+1506800852 source:c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegoviav2\menus.cpp
+	"menus.h"
+
+1506800852 c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegoviav2\menus.h
+	"boolean.h"
+
+1506800853 source:c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegoviav2\string.cpp
+	"string.h"
+
+1506800853 c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegoviav2\string.h
+	"boolean.h"
+
+1506800853 source:c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegoviav2\tipo.cpp
+	"tipo.h"
+
+1506800853 c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegoviav2\tipo.h
+	"boolean.h"
+
+1506800853 source:c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegoviav2\variedad.cpp
+
+1507500142 source:c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegovia\datos_especial.cpp
+	"datos_especial.h"
+
+1507063894 ecial.h"
+
+1507500142 source:c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegovia\datos_premium.cpp
+	"datos_premium.h"
+
+1507063894 mium.h"
+
+1507500143 source:c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegovia\fabrica.cpp
+	"fabrica.h"
+
+1507500142 source:c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegovia\menus.cpp
+	"menus.h"
+
+1507500142 c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegovia\menus.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<ctime>
+
+1507500141 c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegovia\boolean.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<ctime>
+
+1507500142 source:c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegovia\tipo.cpp
+	"tipo.h"
+
+1507500142 c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegovia\tipo.h
+	<stdio.h>
+	"boolean.h"
+
+1507500143 source:c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegovia\variedad.cpp
+	"variedad.h"
+
+1507500142 source:c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegovia\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1507500142 source:c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegovia\fecha.cpp
+	"fecha.h"
+
+1507500143 c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegovia\fecha.h
+	"boolean.h"
+
+1507500143 source:c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegovia\main.cpp
+	"fabrica.h"
+	"menus.h"
+
+1507500141 c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegovia\fabrica.h
+	"variedad.h"
+
+1507500143 c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegovia\variedad.h
+	"datos_especial.h"
+	"datos_premium.h"
+	"fecha.h"
+	"tipo.h"
+	"string.h"
+
+1507500143 c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegovia\datos_especial.h
+	"string.h"
+
+1507500685 c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegovia\string.h
+	"boolean.h"
+
+1507500142 c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegovia\datos_premium.h
+	"boolean.h"
+
+1507500685 source:c:\users\joakohp10\onedrive\obligatorios\p2-obl1piassegovia\string.cpp
+	"string.h"
+
+1506817608 ne
+
+1506817608 source:/home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/P2-Oblg1PiasSegovia/boolean.cpp
+	<stdio.h>
+	"boolean.h"
+	<stdio.h>
+	"boolean.h"
+	<stdio.h>
+	"boolean.h"
+
+1506817608 /home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/P2-Oblg1PiasSegovia/boolean.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+
+1506897189 source:/home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/P2-Oblg1PiasSegovia/datos_especial.cpp
+	"datos_especial.h"
+	"datos_especial.h"
+	"datos_especial.h"
+
+1506897716 source:/home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/P2-Oblg1PiasSegovia/datos_premium.cpp
+	"datos_premium.h"
+	"datos_premium.h"
+	"datos_premium.h"
+
+1506802663 source:/home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/P2-Oblg1PiasSegovia/fabrica.cpp
+
+1506817608 source:/home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/P2-Oblg1PiasSegovia/fecha.cpp
+	"fecha.h"
+	"fecha.h"
+	"fecha.h"
+
+1506817608 /home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/P2-Oblg1PiasSegovia/fecha.h
+	"boolean.h"
+	"boolean.h"
+	"boolean.h"
+
+1506895095 source:/home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/P2-Oblg1PiasSegovia/main.cpp
+	"fabrica.h"
+	"menus.h"
+	"fabrica.h"
+	"menus.h"
+	"fabrica.h"
+	"menus.h"
+
+1506817608 /home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/P2-Oblg1PiasSegovia/fabrica.h
+	"variedad.h"
+	"variedad.h"
+	"variedad.h"
+
+1506902437 /home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/P2-Oblg1PiasSegovia/variedad.h
+	"datos_especial.h"
+	"datos_premium.h"
+	"fecha.h"
+	"tipo.h"
+	"string.h"
+	"datos_especial.h"
+	"datos_premium.h"
+	"fecha.h"
+	"tipo.h"
+	"string.h"
+	"datos_especial.h"
+	"datos_premium.h"
+	"fecha.h"
+	"tipo.h"
+	"string.h"
+
+1506817608 /home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/P2-Oblg1PiasSegovia/datos_especial.h
+	"string.h"
+	"string.h"
+	"string.h"
+
+1506817608 /home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/P2-Oblg1PiasSegovia/string.h
+	"boolean.h"
+	"boolean.h"
+	"boolean.h"
+
+1506817608 /home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/P2-Oblg1PiasSegovia/datos_premium.h
+	"boolean.h"
+	"boolean.h"
+	"boolean.h"
+
+1506859626 /home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/P2-Oblg1PiasSegovia/tipo.h
+	<stdio.h>
+	"boolean.h"
+	<stdio.h>
+	"boolean.h"
+	<stdio.h>
+	"boolean.h"
+
+1506802663 /home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/P2-Oblg1PiasSegovia/menus.h
+	"boolean.h"
+	"boolean.h"
+	"boolean.h"
+
+1506802663 source:/home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/P2-Oblg1PiasSegovia/menus.cpp
+	"menus.h"
+	"menus.h"
+	"menus.h"
+
+1506817608 source:/home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/P2-Oblg1PiasSegovia/string.cpp
+	"string.h"
+	"string.h"
+	"string.h"
+
+1506895059 source:/home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/P2-Oblg1PiasSegovia/tipo.cpp
+	"tipo.h"
+	"tipo.h"
+	"tipo.h"
+
+1506902405 source:/home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/P2-Oblg1PiasSegovia/variedad.cpp
+	"variedad.h"
+	"variedad.h"
+	"variedad.h"
+
+1507063894 source:/home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/REPOSITORIO_SVN/P2-Oblg1PiasSegovia/boolean.cpp
+	<stdio.h>
+	"boolean.h"
+	<stdio.h>
+	"boolean.h"
+	<stdio.h>
+	"boolean.h"
+	<stdio.h>
+	"boolean.h"
+
+1507063894 /home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/REPOSITORIO_SVN/P2-Oblg1PiasSegovia/boolean.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+
+1507063894 source:/home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/REPOSITORIO_SVN/P2-Oblg1PiasSegovia/datos_especial.cpp
+	"datos_especial.h"
+	"datos_especial.h"
+	"datos_especial.h"
+	"datos_especial.h"
+
+1507063894 /home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/REPOSITORIO_SVN/P2-Oblg1PiasSegovia/datos_especial.h
+	"string.h"
+	"string.h"
+	"string.h"
+	"string.h"
+
+1507063894 /home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/REPOSITORIO_SVN/P2-Oblg1PiasSegovia/string.h
+	"boolean.h"
+	"boolean.h"
+	"boolean.h"
+	"boolean.h"
+
+1507063894 source:/home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/REPOSITORIO_SVN/P2-Oblg1PiasSegovia/datos_premium.cpp
+	"datos_premium.h"
+	"datos_premium.h"
+	"datos_premium.h"
+	"datos_premium.h"
+
+1507063894 /home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/REPOSITORIO_SVN/P2-Oblg1PiasSegovia/datos_premium.h
+	"boolean.h"
+	"boolean.h"
+	"boolean.h"
+	"boolean.h"
+
+1507161642 source:/home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/REPOSITORIO_SVN/P2-Oblg1PiasSegovia/fabrica.cpp
+	"fabrica.h"
+	"fabrica.h"
+	"fabrica.h"
+	"fabrica.h"
+
+1507232506 /home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/REPOSITORIO_SVN/P2-Oblg1PiasSegovia/fabrica.h
+	"variedad.h"
+	"variedad.h"
+	"variedad.h"
+	"variedad.h"
+
+1507233031 /home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/REPOSITORIO_SVN/P2-Oblg1PiasSegovia/variedad.h
+	"datos_especial.h"
+	"datos_premium.h"
+	"fecha.h"
+	"tipo.h"
+	"string.h"
+	"datos_especial.h"
+	"datos_premium.h"
+	"fecha.h"
+	"tipo.h"
+	"string.h"
+	"datos_especial.h"
+	"datos_premium.h"
+	"fecha.h"
+	"tipo.h"
+	"string.h"
+	"datos_especial.h"
+	"datos_premium.h"
+	"fecha.h"
+	"tipo.h"
+	"string.h"
+
+1507162209 /home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/REPOSITORIO_SVN/P2-Oblg1PiasSegovia/fecha.h
+	"boolean.h"
+	"boolean.h"
+	"boolean.h"
+	"boolean.h"
+
+1507063894 /home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/REPOSITORIO_SVN/P2-Oblg1PiasSegovia/tipo.h
+	<stdio.h>
+	"boolean.h"
+	<stdio.h>
+	"boolean.h"
+	<stdio.h>
+	"boolean.h"
+	<stdio.h>
+	"boolean.h"
+
+1507162374 source:/home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/REPOSITORIO_SVN/P2-Oblg1PiasSegovia/fecha.cpp
+	"fecha.h"
+	"fecha.h"
+	"fecha.h"
+	"fecha.h"
+
+1507063894 source:/home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/REPOSITORIO_SVN/P2-Oblg1PiasSegovia/main.cpp
+	"fabrica.h"
+	"menus.h"
+	"fabrica.h"
+	"menus.h"
+	"fabrica.h"
+	"menus.h"
+	"fabrica.h"
+	"menus.h"
+
+1507075341 /home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/REPOSITORIO_SVN/P2-Oblg1PiasSegovia/menus.h
+	"boolean.h"
+	"boolean.h"
+	"boolean.h"
+	"boolean.h"
+
+1507148958 source:/home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/REPOSITORIO_SVN/P2-Oblg1PiasSegovia/menus.cpp
+	"menus.h"
+	"menus.h"
+	"menus.h"
+	"menus.h"
+
+1507063894 source:/home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/REPOSITORIO_SVN/P2-Oblg1PiasSegovia/string.cpp
+	"string.h"
+	"string.h"
+	"string.h"
+	"string.h"
+
+1507063894 source:/home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/REPOSITORIO_SVN/P2-Oblg1PiasSegovia/tipo.cpp
+	"tipo.h"
+	"tipo.h"
+	"tipo.h"
+	"tipo.h"
+
+1507233100 source:/home/richard/Documentos/UDE_2017/PROGRAMACION II/OBLIGATORIOS/REPOSITORIO_SVN/P2-Oblg1PiasSegovia/variedad.cpp
+	"variedad.h"
+	"variedad.h"
+	"variedad.h"
+	"variedad.h"
+
+1507063894 38
+
+1507063894 39
+
